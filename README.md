@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+## Witaj na stronie [Szymszona](https://github.com/szymszon)
 
-You can use the [editor on GitHub](https://github.com/szymszon/szymszon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+###Aktualny projekt:
+- [Pomocnik Studenta](https://github.com/AGH-Narzedzia-Informatyczne/Pomocnik-Studenta-Test)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
