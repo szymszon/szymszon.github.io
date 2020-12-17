@@ -10,6 +10,7 @@
 - Interfejs jest bardzo prosty i intuicyjny, kolory są miłe dla oka
 - Najtrudniejsze zadania udało się dokończyć, zabrakło umiejętności graficznych, aby rozbudować GUI
 - Planem na przyszłość jest dokończenie Kalendarza oraz Kontrolera Wydatków, poprawienie błędów, rozbudowa GUI oraz zaliczenie Analizy Matematycznej
+![menu](https://github.com/AGH-Narzedzia-Informatyczne/Pomocnik-Studenta-Test/blob/main/menu.png?raw=true)
 
 Ulubiony język: **Python**
 
